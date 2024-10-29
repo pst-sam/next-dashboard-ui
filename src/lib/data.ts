@@ -1,6 +1,6 @@
-// TEMPORARY DATA
+/* // TEMPORARY DATA
 
-export let role = "admin";
+export let role = "student";
 
 export const teachersData = [
   {
@@ -1060,4 +1060,4 @@ export const calendarEvents = [
     start: new Date(2024, 7, 16, 14, 0),
     end: new Date(2024, 7, 16, 14, 45),
   },
-];
+]; */
